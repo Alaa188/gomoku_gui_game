@@ -1,2 +1,12 @@
-# gomoku_gui_game
-🧠🎮 Gomoku game with Pygame GUI and AI (Minimax + Alpha-Beta Pruning). Supports Human vs Human, Human vs AI, and AI vs AI modes.
+# Gomoku Game with GUI and AI
+
+A Python implementation of Gomoku (Five in a Row) with a Pygame GUI and AI using Minimax and Alpha-Beta Pruning.
+
+## Features
+- Human vs Human
+- Human vs AI
+- AI vs AI
+
+## Run
+```bash
+python gomoku_gui.py
